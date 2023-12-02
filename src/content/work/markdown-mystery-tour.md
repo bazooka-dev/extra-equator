@@ -1,35 +1,32 @@
 ---
-title: Markdown Mystery Tour
+title: Serveur de déploieent
 publishDate: 2020-03-02 00:00:00
 img: /assets/stock-1.jpg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  
 tags:
-  - Design
-  - Dev
-  - User Testing
+  
+  - Déploiement
+  
 ---
 
-## Level-two heading
+## Stage professionnel
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+Au cours de mon stage de première année en BTS SIO, j'ai été chargé de concevoir et mettre en œuvre un serveur de déploiement WDS basé sur Windows Server. Ce projet visait à optimiser le processus de déploiement des systèmes d'exploitation au sein de l'infrastructure informatique de l'entreprise.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+Les principales étapes de la réalisation du projet incluent :
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+Analyse des Besoins : J'ai débuté par une analyse approfondie des besoins de l'entreprise en matière de déploiement de systèmes d'exploitation. Cela a inclus la prise en compte des différents types de machines à déployer, des configurations requises, et des contraintes spécifiques de l'environnement.
 
-### Level-three heading
+Configuration du Serveur Windows : J'ai configuré un serveur Windows dédié pour héberger le service WDS. Cette étape comprenait l'installation et la configuration appropriée du rôle WDS sur le serveur, en veillant à respecter les bonnes pratiques de sécurité et de gestion.
 
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
+Création des Images de Déploiement : J'ai préparé des images de déploiement personnalisées pour les différents systèmes d'exploitation et configurations requises. Cela a inclus la personnalisation des paramètres, l'intégration des mises à jour et l'ajout de logiciels spécifiques.
 
-### Level-three heading
+Configuration des Paramètres de Démarrage Réseau : J'ai défini les paramètres de démarrage réseau pour les postes de travail, permettant ainsi aux machines clientes de se connecter au serveur WDS et d'initier le processus de déploiement.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Tests et Validation : J'ai procédé à des tests approfondis pour vérifier la stabilité et l'efficacité du système de déploiement. Cela a inclus la validation de la prise en charge des différentes configurations matérielles, des tests de charge, et la résolution des éventuels problèmes rencontrés.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+Documentation : J'ai documenté l'ensemble du processus de mise en place, y compris les configurations spécifiques, les étapes de déploiement, et les procédures de maintenance recommandées.
 
-#### Level-four heading
-
-- We noted this
-- And also this other point
+En conclusion, la mise en place réussie du serveur de déploiement WDS a permis d'optimiser significativement le processus de déploiement des systèmes d'exploitation au sein de l'entreprise, améliorant ainsi l'efficacité opérationnelle et la gestion des postes de travail. Ce projet m'a également offert l'opportunité d'acquérir des compétences pratiques et une compréhension approfondie des technologies de déploiement dans un environnement professionnel.
